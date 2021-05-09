@@ -35,3 +35,6 @@ curl -i {Node IP or hostname}:6143/tasks/{Task ID}/result
 # Delete the task from the node's history
 curl -iX {Node IP or hostname}:6143/tasks/{Task ID}
 ```
+
+## Code Repo
+https://github.com/cider-io/cider
