@@ -1,5 +1,10 @@
 # CIDER: **C**ooperative **I**n-home **D**istributed **E**fficient **R**esource Allocation Protocol
 
+## Authors
+@pujandave25
+@roshinis78
+@ranganadhk
+
 ## Quickstart
 ```bash
 go build .
@@ -37,4 +42,4 @@ curl -iX {Node IP or hostname}:6143/tasks/{Task ID}
 ```
 
 ## Code Repo
-https://github.com/cider-io/cider
+[CIDER](https://github.com/cider-io/cider)
