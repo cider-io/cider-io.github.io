@@ -1,9 +1,9 @@
-# CIDER: **C**ooperative **I**n-home **D**istributed **E**fficient **R**esource Allocation Protocol
+# CIDER: *C*ooperative *I*n-home *D*istributed *E*fficient *R*esource Allocation Protocol
 
 ## Authors
-@pujandave25
-@roshinis78
-@ranganadhk
+[@pujandave25](https://github.com/pujandave25)
+[@ranganadhk](https://github.com/ranganadhk)
+[@roshinis78](https://github.com/roshinis78)
 
 ## Quickstart
 ```bash
