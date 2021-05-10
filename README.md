@@ -5,6 +5,10 @@
 [@ranganadhk](https://github.com/ranganadhk)
 [@roshinis78](https://github.com/roshinis78)
 
+## Useful Links
+- [System Paper](https://github.com/cider-io/cider/blob/main/docs/CIDER.pdf)
+- [GitHub Repo](https://github.com/cider-io/cider)
+
 ## Quickstart
 ```bash
 go build .
