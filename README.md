@@ -1,9 +1,7 @@
 # CIDER: *C*ooperative *I*n-home *D*istributed *E*fficient *R*esource Allocation Protocol
 
 ## Authors
-[@pujandave25](https://github.com/pujandave25)
-[@ranganadhk](https://github.com/ranganadhk)
-[@roshinis78](https://github.com/roshinis78)
+[@pujandave25](https://github.com/pujandave25), [@ranganadhk](https://github.com/ranganadhk), [@roshinis78](https://github.com/roshinis78)
 
 ## Useful Links
 - [System Paper](https://github.com/cider-io/cider/blob/main/docs/CIDER.pdf)
@@ -44,6 +42,3 @@ curl -i {Node IP or hostname}:6143/tasks/{Task ID}/result
 # Delete the task from the node's history
 curl -iX {Node IP or hostname}:6143/tasks/{Task ID}
 ```
-
-## Code Repo
-[CIDER](https://github.com/cider-io/cider)
