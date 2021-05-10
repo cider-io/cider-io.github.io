@@ -5,6 +5,10 @@
 [@ranganadhk](https://github.com/ranganadhk)
 [@roshinis78](https://github.com/roshinis78)
 
+## Useful Links
+- [System Paper](https://github.com/cider-io/cider/blob/main/docs/CIDER.pdf)
+- [GitHub Repo](https://github.com/cider-io/cider)
+
 ## Quickstart
 ```bash
 go build .
@@ -40,6 +44,3 @@ curl -i {Node IP or hostname}:6143/tasks/{Task ID}/result
 # Delete the task from the node's history
 curl -iX {Node IP or hostname}:6143/tasks/{Task ID}
 ```
-
-## Code Repo
-[CIDER](https://github.com/cider-io/cider)
